@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fuzzy241
-- 👀 I’m interested in Machine Learning,Data Science and Linux
+- 👋 Hi, I’m Faraz Khan
+- 👀 I’m interested in Data Analysis, Data Science, Machine Learning and Linux
 - 🌱 I’m currently learning Artificial Intelligence
 
 
